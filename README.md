@@ -6,7 +6,7 @@
 [![Issues](https://img.shields.io/github/issues/Szeto7/Szeto7)](https://github.com/Szeto7/Szeto7/issues)
 [![](https://img.shields.io/github/last-commit/Szeto7/Szeto7)](https://github.com/Szeto7)
 # *维护时间 : 5.17.2025*
-![Visitor Count](https://profile-counter.glitch.me/Szeto7/count.svg)  
+# ![Visitor Count](https://profile-counter.glitch.me/Szeto7/count.svg)
 ![GitHub stats](https://github-readme-stats.vercel.app/api?username=Szeto7&show_icons=true&count_private=true&theme=vue)  
 ****
 # 1️⃣ Quantumult X 配置
@@ -26,7 +26,7 @@
 
 # 4️⃣ 自用资源
   * 解锁Apple功能 [iRingo](https://nsringo.github.io/index.html)
-  * 自用机场推荐 [点我直达](https://zc064.xyz/auth/register?code=7yAN)
+  * 自用机场推荐 [zcssr](https://zc064.xyz/auth/register?code=7yAN)
   * IOS脱壳APP下载 [decrypt](https://decrypt.day)
   * IOS证书推荐 [Dumpapp](https://www.dumpapp.com/register?invite_code=GAYpwg)
 
