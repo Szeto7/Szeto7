@@ -25,7 +25,7 @@
 # 3️⃣ Quantumult X 复写
   * 自用复写规则 [rewrite.conf](https://raw.githubusercontent.com/Szeto7/QuanX/refs/heads/master/rewrite.conf)
 
-#4️⃣ 自用资源
+# 4️⃣ 自用资源
   * 自用机场推荐 [点我直达](https://zc064.xyz/auth/register?code=7yAN)
   * 解锁Apple功能 [快速开始](https://nsringo.github.io/index.html)
 
