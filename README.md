@@ -25,8 +25,10 @@
   * 自用复写规则 [rewrite.conf](https://raw.githubusercontent.com/Szeto7/QuanX/refs/heads/master/rewrite.conf)
 
 # 4️⃣ 自用资源
+  * 解锁Apple功能 [iRingo](https://nsringo.github.io/index.html)
   * 自用机场推荐 [点我直达](https://zc064.xyz/auth/register?code=7yAN)
-  * 解锁Apple功能 [快速开始](https://nsringo.github.io/index.html)
+  * IOS脱壳APP下载 [decrypt](https://decrypt.day)
+  * IOS证书推荐 [Dumpapp](https://www.dumpapp.com/register?invite_code=GAYpwg)
 
 # 5️⃣ REF
 * [@ddgksf2013](https://github.com/ddgksf2013) [@blackmatrix7](https://github.com/blackmatrix7)  [@ConnersHua](https://github.com/ConnersHua)  [@VirgilClyne](https://github.com/VirgilClyne)  [@Cats-Team](https://github.com/Cats-Team)
