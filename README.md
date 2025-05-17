@@ -29,7 +29,4 @@
   * 解锁Apple功能 [快速开始](https://nsringo.github.io/index.html)
 
 # 5️⃣ REF
-* [@ddgksf2013](https://github.com/ddgksf2013) [@blackmatrix7](https://github.com/blackmatrix7)  [@ConnersHua](https://github.com/ConnersHua)  [@VirgilClyne](https://github.com/VirgilClyne)  [@Cats-Team](https://github.com/Cats-Team) 
-
-# 6️⃣ Star History
-<img src="https://api.star-history.com/svg?repos=Szeto7/Szeto7&type=Date" alt="Star History Chart" width="600" height="356" align="center">
+* [@ddgksf2013](https://github.com/ddgksf2013) [@blackmatrix7](https://github.com/blackmatrix7)  [@ConnersHua](https://github.com/ConnersHua)  [@VirgilClyne](https://github.com/VirgilClyne)  [@Cats-Team](https://github.com/Cats-Team)
