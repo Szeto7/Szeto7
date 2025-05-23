@@ -1,4 +1,4 @@
-[![Stars](https://img.shields.io/github/stars/Szeto7/Szeto7)](https://github.com/Szeto7/Szeto7/stargazers)
+[![Stars](https://img.shields.io/github/stars/Szeto7/Szeto7/wool_scripts?color=ffd700&style=for-the-badge)](https://github.com/Szeto7/Szeto7/stargazers)
 [![Fork](https://img.shields.io/github/forks/Szeto7/Szeto7)](https://github.com/Szeto7/Szeto7/network/members)
 [![Follw](https://img.shields.io/github/followers/Szeto7?label=follow&style=social)](https://github.com/Szeto7)
 [![Commit](https://img.shields.io/github/commit-activity/m/Szeto7/Szeto7?label=Commits)](https://github.com/Szeto7/Szeto7/commits/master)
