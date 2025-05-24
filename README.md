@@ -11,10 +11,10 @@
 <div align="center" valign="center">
     <tr>
         <td align ="center">
-          <img  height="100px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Szeto7&layout=compact"/>
+          <img  height="120px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Szeto7&layout=compact"/>
         </td>
         <td align="center">
-          <img  height="50px" src="https://profile-counter.glitch.me/Szeto7/count.svg"/>
+          <img  height="120px" src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=Szeto7&show_icons=true&include_all_commits=true&&rank_icon=github""/>
         </td>
     </tr>
     </div>
