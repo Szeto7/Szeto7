@@ -22,4 +22,4 @@
 <div align="center"><img src="https://raw.githubusercontent.com/Szeto7/Szeto7/refs/heads/output/github-snake.svg" ></div>
 
 ## 📝 Blog
-  - [自用Quantumult X 相关配置](https://github.com/Szeto7/Quanx)
+  - [Quantumult X 配置2.0(小白版)](https://github.com/Szeto7/Quanx)
