@@ -1,4 +1,9 @@
-<!-- 05/31/2025 09:26:30 -->
+<!-- 
+# Author : SZETO
+# Version : 2.0
+# URL : https://github.com/Szeto7
+# Update : 06/02/2025 21:10:04 (GMT+8)
+-->
 ![Stars](https://img.shields.io/github/stars/Szeto7/Szeto7?color=FBC02D&style=for-the-badge)
 ![Fork](https://img.shields.io/github/forks/Szeto7/Szeto7?color=00ACC1&style=for-the-badge)
 ![Follw](https://img.shields.io/github/followers/Szeto7?color=D81B60&style=for-the-badge)
